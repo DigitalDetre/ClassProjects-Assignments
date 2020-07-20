@@ -1,0 +1,1 @@
+Run the makefiles in both the folders

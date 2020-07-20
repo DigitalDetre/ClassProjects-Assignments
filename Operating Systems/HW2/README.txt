@@ -1,0 +1,1 @@
+There is a read me text file in all the folders
