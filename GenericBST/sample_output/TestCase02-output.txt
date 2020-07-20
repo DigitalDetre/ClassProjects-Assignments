@@ -1,0 +1,12 @@
+Hooray!
+Hooray!
+true
+true
+true
+In-order Traversal: aard appl boat do douc heel man walk zebr zzz
+Pre-order Traversal: man appl aard boat heel do douc walk zzz zebr
+Post-order Traversal: aard douc do heel boat appl zebr zzz walk man
+In-order Traversal: do douc heel walk zebr zzz
+false
+false
+false
