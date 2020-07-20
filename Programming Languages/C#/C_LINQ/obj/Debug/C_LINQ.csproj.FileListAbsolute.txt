@@ -1,0 +1,7 @@
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\obj\Debug\C_LINQ.csprojAssemblyReference.cache
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\obj\Debug\C_LINQ.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\bin\Debug\C_LINQ.exe.config
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\bin\Debug\C_LINQ.exe
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\bin\Debug\C_LINQ.pdb
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\obj\Debug\C_LINQ.exe
+C:\cygwin64\home\Donkey Phong\Programming Languages\C#\C_LINQ\obj\Debug\C_LINQ.pdb
