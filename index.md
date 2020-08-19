@@ -1,3 +1,4 @@
+site_url: https://github.com/DigitalDetre/ClassProjects-Assignments/edit/gh-pages/
 <img src="images/phong.jpg" 
 alt="Phong's profile picture"
 width="173"
