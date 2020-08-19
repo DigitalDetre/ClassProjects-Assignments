@@ -1,8 +1,4 @@
-site_url: https://github.com/DigitalDetre/ClassProjects-Assignments/edit/gh-pages/
-<img src="images/phong.jpg" 
-alt="Phong's profile picture"
-width="173"
-height="188">
+!["Phong's profile picture"](images/phong.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DigitalDetre/ClassProjects-Assignments/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
