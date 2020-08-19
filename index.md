@@ -1,5 +1,7 @@
 !["Phong's profile picture"](images/phong.jpg)
-## Welcome to GitHub Pages
+# Phong Nguyenho
+
+## Welcome To My GitHub
 
 You can use the [editor on GitHub](https://github.com/DigitalDetre/ClassProjects-Assignments/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 <h1>hello</h1>
