@@ -1,4 +1,4 @@
-<img src="https://github.com/DigitalDetre/ClassProjects-Assignments/blob/gh-pages/images/phong.jpg" 
+<img src="images/phong.jpg" 
 alt="Phong's profile picture"
 width="173"
 height="188">
